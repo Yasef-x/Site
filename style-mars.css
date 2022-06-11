@@ -35,6 +35,10 @@ a {
     text-decoration: none;
 }
 
+a:hover{
+    color: cornflowerblue;
+}
+
 img {
     width: 800px;
 }

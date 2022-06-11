@@ -48,3 +48,7 @@ a {
     color:  salmon;
     text-decoration: none;
 }
+
+a:hover{
+    color: cornflowerblue;
+}
